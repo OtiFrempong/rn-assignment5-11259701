@@ -45,13 +45,12 @@ By following these steps, we built a mobile application that closely matches the
 
 
 **Screenshots**
-![Light Theme HomePage](../assets/LightThemeHomePage.jpg)
-![Light Theme HomePage2](../assets/LightThemeHomepage2.jpg)
-![Light Theme Settings](../assets/LightThemeSettings.jpg)
-
-![Dark Theme HomePage](../assets/DarkThemeHomepage1.jpg)
-![Dark Theme HomePage2](../assets/DarkThemeSettings2.jpg)
-![Dark Theme Settings](../assets/DarkThemeSettings.jpg)
+![Light Theme HomePage](assets/LightThemeHomePage.jpg)
+![Light Theme HomePage2](assets/LightThemeHomepage2.jpg)
+![Light Theme Settings](assets/LightThemeSettings.jpg)
+![Dark Theme HomePage](assets/DarkThemeHomepage1.jpg)
+![Dark Theme HomePage2](assets/DarkThemeSettings2.jpg)
+![Dark Theme Settings](assets/DarkThemeSettings.jpg)
 
 
 
