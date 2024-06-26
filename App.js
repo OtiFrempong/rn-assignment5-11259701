@@ -2,7 +2,7 @@ import React from 'react';
 import { NavigationContainer } from '@react-navigation/native';
 import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
 import { View, Image, Text, StyleSheet } from 'react-native';
-import Home from './HomeScreen';
+import Home from './Home';
 import Settings from './Settings';
 import CardsScreen from './CardsScreen';
 import Statistics from './Statistics';
